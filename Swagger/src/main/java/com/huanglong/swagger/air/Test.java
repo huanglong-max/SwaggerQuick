@@ -5,7 +5,7 @@ package com.huanglong.swagger.air;
  *  @Description:
  */
 public class Test {
-
+   // main方法
     public static void main(String[] args) {
 
     }
