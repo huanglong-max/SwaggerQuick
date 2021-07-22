@@ -7,6 +7,6 @@ package com.huanglong.swagger.air;
 public class Test {
    // main方法
     public static void main(String[] args) {
-
+        System.out.println();
     }
 }
